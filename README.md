@@ -21,7 +21,7 @@ Manager in Android Studio.</li>
 
 
 
-Note : This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.	
+Note : Thie image used in this file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.	
 
 ## Licence
 
