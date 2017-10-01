@@ -15,7 +15,3 @@ Manager in Android Studio.</li>
 <hr>
 <p>In this project we creat a simple app that detects human faces in pictures. Currently it supports static images, which lay the principles of how this API works</p>
 <p><img src="https://commons.wikimedia.org/wiki/File:Woman_and_chiwawa_dog.JPG" alt="Image Used in this Project">.</p>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
-
