@@ -17,4 +17,4 @@ Manager in Android Studio.</li>
 <p><img src="https://commons.wikimedia.org/wiki/File:Woman_and_chiwawa_dog.JPG" alt="Image Used in this Project">.</p>
 
 
-![Face Detected](/app/src/main/res/drawable/test1.jpg?raw=true "Optional Title")
+![Face Detected](/screenshots/Screenshot_2017-10-01-12-32-43-461_android.paperwrrk.www.facedetect.png?raw=true "Optional Title")
