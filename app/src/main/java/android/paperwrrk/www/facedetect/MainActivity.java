@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
                 detectFace(options);
             }
         });
-
         imageView = findViewById(R.id.imgView);
     }
 
