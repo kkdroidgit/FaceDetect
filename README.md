@@ -14,7 +14,11 @@ Manager in Android Studio.</li>
 </ul>
 <hr>
 <p>In this project we creat a simple app that detects human faces in pictures. Currently it supports static images, which lay the principles of how this API works</p>
-<p><img src="https://commons.wikimedia.org/wiki/File:Woman_and_chiwawa_dog.JPG" alt="Image Used in this Project">.</p>
+<p><img src="https://commons.wikimedia.org/wiki/File:Woman_and_chiwawa_dog.JPG" alt="You can find the link to the image Used in this Projec Heret">.</p>
 
 
 ![Face Detected](/screenshots/Screenshot_2017-10-01-12-32-43-461_android.paperwrrk.www.facedetect.png?raw=true "Optional Title")
+
+
+
+Note : This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.	
