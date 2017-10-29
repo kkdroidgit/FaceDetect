@@ -5,14 +5,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="android.paperwrrk.www.facedetect.MainActivity">
-
+   //creating the button
     <Button
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
         android:id="@+id/button_process"
-        android:text="Process"
+        android:text="Click To Process"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:background='#0000/>
 
 
     <ImageView
