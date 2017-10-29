@@ -13,7 +13,7 @@
         android:text="Click To Process"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background='#0000/>
+        android:background="#0000ff"/>
 
 
     <ImageView
