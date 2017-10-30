@@ -1,6 +1,6 @@
 #ABOUT
 
-<p>With Google Play Services, you can now use new Mobile Vision APIs which provide new Face Detection APIs that find human faces in image and video better and faster than before, and which offer smart services such as understanding faces at different orientations, detecting facial features, and understanding facial expressions.</p>
+<p>With Google Play Services, you can now use new Mobile Vision APIs which provide new Face Detection APIs that find human faces in an image and video better and faster than before, and which offer smart services such as understanding faces at different orientations, detecting facial features, and understanding facial expressions.</p>
 <hr>
 <p><strong>Prerequisites:</strong></p>
 <ul>
@@ -21,7 +21,7 @@ Manager in Android Studio.</li>
 
 
 
-Note : Thie image used in this file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.	
+Note : This image used in this file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic license.	
 
 ## Licence
 
